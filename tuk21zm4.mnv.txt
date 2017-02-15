@@ -1,0 +1,21 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   WebContent/META-INF/MANIFEST.MF
+#	new file:   pom.xml
+#	new file:   src/main/java/org/arpit/java2blog/bean/Country.java
+#	new file:   src/main/java/org/arpit/java2blog/bean/ExceptionMessage.java
+#	new file:   src/main/java/org/arpit/java2blog/controller/CountryController.java
+#	new file:   src/main/java/org/arpit/java2blog/controller/CountryNotFoundExceptionMapper.java
+#	new file:   src/main/java/org/arpit/java2blog/exception/CountryNotFoundException.java
+#	new file:   src/main/java/org/arpit/java2blog/service/CountryService.java
+#	new file:   src/main/webapp/WEB-INF/web.xml
+#	new file:   src/main/webapp/angularJSCrudExample.html
+#	new file:   src/main/webapp/index.jsp
+#
+
